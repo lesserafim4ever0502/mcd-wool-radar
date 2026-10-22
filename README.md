@@ -84,6 +84,10 @@ mcd-wool-radar/
 └── workbuddy.md          # WorkBuddy 开发对话上下文
 ```
 
+## 在线演示
+
+**👉 [在线体验（演示版）](https://workbuddy.link/p/AoFgoe6UCSSxD0aR4kPzOX)** — WorkBuddy「1024 造物挑战」参赛演示页，手机可直接打开。
+
 ## 声明
 
 本项目为个人非商业开源作品，与麦当劳中国无隶属关系。数据接口来自麦当劳中国官方 MCP Server（mcp.mcd.cn），使用须遵守《麦当劳 MCP 服务规则》。健康饮食，理性消费 🍟
