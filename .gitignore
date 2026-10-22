@@ -1,0 +1,8 @@
+# 敏感信息与临时产物
+.env
+*.token
+report.html
+report.json
+__pycache__/
+*.pyc
+.DS_Store
